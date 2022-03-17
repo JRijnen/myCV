@@ -14,15 +14,17 @@ body {
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #e0f0ff;
+    background-color: #1875A8;
+    color: #FFFFFF;
 }
 
 .resume-main {
-	background-color: #fffefc;
+	background-color: #F6C079;
+	color: #FFFFFF;
 }
 
 .resume-aside {
-	background-color: #fff0e0;
+	background-color: #e0f0ff;
 }
 
 /* Styles for lists in the document */
@@ -48,4 +50,12 @@ body {
 .contact-icon {
 	height: 1em;
 	flex-basis: 1.4em;
+}
+
+h1 {
+	font-family: 'Fredoka', sans-serif;
+}
+
+h2 {
+	font-family: 'Fredoka', sans-serif;
 }
